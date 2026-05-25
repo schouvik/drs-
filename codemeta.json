@@ -10,16 +10,16 @@
           "affiliation": "University of Potsdam"
       }
   ],
-  "repository-code": "https://github.com/schouvik/Fashion-ml",
+  "repository-code": "https://github.com/schouvik/drs-",
   "year": "2025",
-  "abstract": "This project explores Convolutional Neural Networks (CNNs) for multi-class classification of clothing items using the [Fashion-MNIST dataset]",
+  "abstract": "This project explores DRS",
   "keywords": [
       "ML",
       "CNN",
       "Classification"
   ],
   "license": "MIT",
-  "title": "Fashion ML",
+  "title": "DRS",
   "programmingLanguage": "Python3",
   "version": "1.0.0",
   "references": [
