@@ -14,7 +14,6 @@
   "year": "2025",
   "abstract": "This project explores DRS",
   "keywords": [
-      "ML",
       "DRS",
       "Task Generation"
   ],
@@ -22,26 +21,5 @@
   "title": "DRS",
   "programmingLanguage": "Python3",
   "version": "1.0.0",
-  "references": [
-    {
-      "authors": [
-        {
-          "family-names": "Xiao",
-          "given-names": "Han"
-        },
-        {
-          "family-names": "Rasul",
-          "given-names": "Kashif"
-        },
-        {
-          "family-names": "Vollgraf",
-          "given-names": "Roland"
-        }
-      ],
-      "title": "Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms.",
-      "doi": "10.48550/arXiv.1708.07747",
-      "type": "research-paper",
-      "year": 2017
-    }
-  ]
+  "references": []
 }
